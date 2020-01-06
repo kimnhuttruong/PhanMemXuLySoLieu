@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanMemXuLySoieu", "PhanMemXuLySoieu\PhanMemXuLySoieu.csproj", "{EBBDBDFD-1E4D-46AC-9ACD-B1108B425B4B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{60E87AEE-74C6-43AC-977D-06056DB4CE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBDBDFD-1E4D-46AC-9ACD-B1108B425B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBDBDFD-1E4D-46AC-9ACD-B1108B425B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBDBDFD-1E4D-46AC-9ACD-B1108B425B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBDBDFD-1E4D-46AC-9ACD-B1108B425B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E87AEE-74C6-43AC-977D-06056DB4CE18}.Debug|Any CPU.ActiveCfg = Debug
+		{60E87AEE-74C6-43AC-977D-06056DB4CE18}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E80E934-8AEE-437B-B0CA-B14DBDB71B2C}
+	EndGlobalSection
+EndGlobal
